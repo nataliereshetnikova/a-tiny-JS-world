@@ -39,4 +39,4 @@
  2019-01-03 |    5    |     50     | [AnnaGrynchuk](https://github.com/AnnaGrynchuk/a-tiny-JS-world)
  2018-12-27 |    5    |     60     | [AlexNugda](https://github.com/AlexNugda/a-tiny-JS-world)
  2019-01-04 |    5    |     94     | [vv2529](https://github.com/vv2529/a-tiny-JS-world)
-
+ 2019-01-05 |    4    |     58     | [nataliereshetnikova](https://github.com/nataliereshetnikova/a-tiny-JS-world/blob/gh-pages/index.js)
